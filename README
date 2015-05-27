@@ -70,4 +70,4 @@ Current setup is to run at 40Hz, this can be adjusted in the ms_open function, h
 To read MPU see ms_update - it calls 'dmp read fifo' in a while loop. This means that if fifo is empty this will stall until a packet is available.
 
 -------------------------
-Gregory Dymarek
+Gregory Dymarek <--- he's awesome
